@@ -1,0 +1,30 @@
+body {
+    background-color: maroon;
+}
+
+h1 {
+    text-align: center;
+    font-family: Luminari;
+    color: rgb(160, 129, 3);
+}
+
+h3 {
+    font-family: Luminari;
+    color: rgb(160, 129, 3);
+}
+
+p {
+    font-family: Luminari;
+    color: rgb(160, 129, 3);
+}
+
+ul {
+    font-family: Luminari;
+    color: rgb(160, 129, 3);
+}
+
+ol {
+    font-family: Luminari;
+    color: rgb(160, 129, 3);
+}
+
